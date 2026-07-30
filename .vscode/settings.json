@@ -1,0 +1,10 @@
+{
+    "python.analysis.extraPaths": [
+        "./SmartGrid/src"
+    ],
+    "python.autoComplete.extraPaths": [
+        "./SmartGrid/src"
+    ],
+    "python.envFile": "${workspaceFolder}/SmartGrid/.env",
+    "python.defaultInterpreterPath": "${workspaceFolder}/SmartGrid/.venv311/Scripts/python.exe"
+}
